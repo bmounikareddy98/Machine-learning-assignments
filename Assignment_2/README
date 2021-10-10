@@ -1,1 +1,36 @@
+ReadMe File
 
+The given folder contains three files
+
+1. 
+2. Artificial_neural_networks(Assignment-2).ipynb
+3. Output of the dataset in excel file summarizing the results
+4. Plots of model accuracy against number of epochs
+5. Report
+
+Note: The output of the dataset in tabular format and plots of model history are added in report as well.
+
+
+
+2. Artificial_neural_networks(Assignment-2).ipynb
+-----------------------
+(i) This is written on google collaboratory. Please download the file and then open google colab and then click on File->Upload Notebook and then upload the file.
+The dataset is hosted on public repository and hence not required to download(https://github.com/bmounikareddy98/Machine-learning-assignments/blob/main/insurance.csv)
+
+(ii) On the top right, click on "connect"->"view resources"->Change Runtime Type and select Hardware accelerator as GPU and save.
+(ii) Execute the commands written on each line and the corresponding output will be shown below the cell.
+(iv)The libraries used are:
+    1. numpy 
+    2. matplotlib
+    3. pandas  
+    4. tensorflow
+    5. sklearn
+
+3. Output of the dataset in excel file summarizing the results
+   This consists of record of our trials showing accuracies and rmse with different combinations of hyperparameters.
+
+4. Plots of model accuracy against number of epochs
+   This consists of plots between model accuracy and number of epochs for different activation functions and number of neurons in hidden layers.
+
+5. Report
+   The report consists of the log of our trials with different hyperparameters, answers to questions, and plots.
