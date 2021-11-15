@@ -2,7 +2,7 @@ ReadMe File
 
 The given folder contains five files
 
-1. Part_1- Theoretical part
+1. Part_1(Assignment 3)- Theoretical part
 2. Part_2(K-Means clustering).ipynb
 3. Table of results for Part_2(included in the report as well)
 4. Report
